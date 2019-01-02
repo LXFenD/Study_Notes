@@ -7,7 +7,7 @@ from pymongo import MongoClient
 from datetime import datetime
 from multiprocessing import  pool, Process
 
-
+## options 设置不显示界面
 # options = webdriver.ChromeOptions()
 # options.add_argument('headless')
 browser = webdriver.Chrome()

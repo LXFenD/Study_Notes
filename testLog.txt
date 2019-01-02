@@ -1,0 +1,4 @@
+2019-01-02 16:56:47,544 INFO     root       info mssage 
+2019-01-02 16:56:47,544 WARNING  root       warning mssage
+2019-01-02 16:56:47,544 ERROR    root       error mssage
+2019-01-02 16:56:47,544 CRITICAL root       critical mssage
